@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100px;
+    width: 100%;
+    background-image: url("./subhsn1\ photo.jpeg");
+    background-repeat: no-repeat;
+    background-color: azure;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#counter{
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+    box-shadow: 5px 5px black;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#btn1{
+    height: 30px;
+    width: 30px;
+    background-color: pink;
+    
+}
+#btn2{
+    height: 30px;
+    width: 30px;
+    background-color: pink;
+    
+}
